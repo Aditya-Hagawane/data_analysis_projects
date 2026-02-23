@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance,account_status,open_date,branch_id
+A001,C001,Savings,250000,Active,2018-06-12,B001
+A002,C002,Current,180000,Active,2020-01-20,B002
+A003,C003,Savings,950000,Active,2015-03-18,B003
+A004,C004,Savings,40000,Inactive,2021-09-10,B002
+A005,C005,Current,1500000,Active,2010-11-05,B001

@@ -1,0 +1,6 @@
+transaction_id,account_id,transaction_date,amount,transaction_type,channel
+T001,A001,2024-01-05,5000,Debit,ATM
+T002,A001,2024-01-10,15000,Credit,Online
+T003,A002,2024-01-07,25000,Debit,Branch
+T004,A003,2024-01-15,50000,Credit,Online
+T005,A005,2024-01-20,100000,Debit,Online

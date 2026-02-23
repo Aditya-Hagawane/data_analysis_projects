@@ -1,0 +1,6 @@
+customer_id,name,age,gender,city,state,income,customer_since
+C001,Rahul Sharma,34,Mumbai,Maharashtra,850000,2018-06-12
+C002,Neha Verma,28,Delhi,Delhi,600000,2020-01-20
+C003,Amit Patel,45,Ahmedabad,Gujarat,1200000,2015-03-18
+C004,Priya Singh,31,Lucknow,Uttar Pradesh,500000,2021-09-10
+C005,Rohit Mehta,52,Pune,Maharashtra,1500000,2010-11-05

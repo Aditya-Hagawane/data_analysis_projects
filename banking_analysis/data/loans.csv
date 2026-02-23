@@ -1,0 +1,6 @@
+loan_id,customer_id,loan_type,loan_amount,interest_rate,loan_status,default_flag
+L001,C001,Home Loan,3500000,8.5,Active,0
+L002,C002,Personal Loan,500000,12.5,Active,0
+L003,C003,Business Loan,5000000,10.0,Defaulted,1
+L004,C004,Education Loan,800000,7.2,Closed,0
+L005,C005,Home Loan,7000000,8.2,Active,0
